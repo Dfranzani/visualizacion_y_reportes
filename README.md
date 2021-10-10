@@ -1,6 +1,6 @@
 # Paneles de visualizacion
 
-A continuación se muestran distintos trabajos asociados a paneles de resumen de información, los cuales abordan aspectos descriptivos t/ o técnicos en el área de estadística.
+A continuación se muestran distintos trabajos asociados a paneles de resumen de información, los cuales abordan aspectos descriptivos y/o técnicos en el área de estadística.
 
 ## Paneles interactivos en Power BI
 
