@@ -1,4 +1,4 @@
-# Trabajos de visualizacion
+# Paneles de visualizacion
 
 A continuación se muestran distintos trabajos asociados a paneles de resumen de información, los cuales abordan aspectos descriptivos t/ o técnicos en el área de estadística.
 
@@ -12,7 +12,7 @@ A continuación se muestran distintos trabajos asociados a paneles de resumen de
 
   - [Documento de docencia universitaria](https://dfranzani.shinyapps.io/Introduccion/?_ga=2.176365349.1813678494.1633837684-1262671339.1627842308): abarca contenido  asociado a cursos intoductorios de estadística.
 
-# Trabajos de reportes automatizados
+# Reportes automatizados
 
 La siguiente sección da cuenta de reportes automatizados realizados en R Sweave y R Markdown, tanto para el área descriptiva como de modelamiento estadístico.
 
