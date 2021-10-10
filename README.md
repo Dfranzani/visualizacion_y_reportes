@@ -17,7 +17,7 @@ A continuación se muestran distintos trabajos asociados a paneles de resumen de
 La siguiente sección da cuenta de reportes automatizados realizados en R Sweave y R Markdown, tanto para el área descriptiva como de modelamiento estadístico.
 
 ## Reportes descriptivos
-  - 
+  - [Progresión académica](https://github.com/Dfranzani/visualizacion_y_reportes/blob/main/Demo.pdf): informe asociado al análisis de calificaciones semestrales de una carrera de una universidad estatal.
 
 ## Reportes de modelamiento
   - [Series de tiempo](https://github.com/Dfranzani/visualizacion_y_reportes/blob/main/informe%2Bproyecto.pdf): informe asociado a la predicción de consumo eléctrico mediante el uso de series de tiempo.
