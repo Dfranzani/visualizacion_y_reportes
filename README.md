@@ -9,3 +9,15 @@ A continuación se muestran distintos trabajos asociados a paneles de resumen de
 ## Paneles interactivos en R Shiny
 
 ## Documentos interactivos en R Shiny
+
+  - [Documento de docencia universitaria](https://dfranzani.shinyapps.io/Introduccion/?_ga=2.176365349.1813678494.1633837684-1262671339.1627842308): abarca contenido  asociado a cursos intoductorios de estadística.
+
+# Trabajos de reportes automatizados
+
+La siguiente sección da cuenta de reportes automatizados realizados en R Sweave y R Markdown, tanto para el área descriptiva como de modelamiento estadístico.
+
+## Reportes descriptivos
+  - 
+
+## Reportes de modelamiento
+  - 
