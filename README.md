@@ -20,4 +20,4 @@ La siguiente sección da cuenta de reportes automatizados realizados en R Sweave
   - 
 
 ## Reportes de modelamiento
-  - 
+  - [Series de tiempo](https://github.com/Dfranzani/visualizacion_y_reportes/blob/main/informe%2Bproyecto.pdf): informe asociado a la predicción de consumo eléctrico mediante el uso de series de tiempo.
