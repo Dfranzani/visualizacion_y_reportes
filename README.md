@@ -4,6 +4,7 @@ A continuación se muestran distintos trabajos asociados a paneles de resumen de
 
 ## Paneles interactivos en Power BI
 
+  - [Panel de generación de residuos por aerolíneas](https://app.powerbi.com/view?r=eyJrIjoiMGVhY2M4ODUtNjZhOS00MjUzLTk4YzMtNjFkOThhOGRlM2EwIiwidCI6IjVmZjVkOWZhLWY4M2YtNGFjMS1hNGQyLWViNDhlYTBhMDBkMiIsImMiOjR9&pageName=ReportSectiona0ab7a25ec33b201d30a): datos descriptivos de la generación de residuos por los vuelos en distintos países de latinoamérica.
   - [Panel de Progresión Académica de Estudiantes](https://app.powerbi.com/view?r=eyJrIjoiNDY5M2ExNTMtOGIwNS00YWU2LTliNDktY2EzOGI3YTBiMDdkIiwidCI6IjVmZjVkOWZhLWY4M2YtNGFjMS1hNGQyLWViNDhlYTBhMDBkMiIsImMiOjR9&pageName=ReportSection825357ed09d818af47a2): panel enfocado en el resumen de calificaciones y tasas de aprobación de estudiantes PACE (*Programa de Acceso a la Educación Superior*) de una universidad estatal de Chile.
 
 ## Paneles interactivos en R Shiny
