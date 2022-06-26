@@ -8,6 +8,8 @@ A continuación se muestran distintos trabajos asociados a paneles de resumen de
 
 ## Paneles en R Shiny
 
+  - [Panel de caracterización y riesgo académico](https://dfranzani.shinyapps.io/Caracterizacion_academica/?_ga=2.152250298.246577671.1656204477-236089382.1655430873): panel enfocado en dar a conocer resultados de caracterización inicial de estudiates (resultados en pruebas diagnósticas) contrastadas con variables de ingreso (NEM y PTU). Además, se muestra un modelo predictivo de reprobación académica para el primer año, considerando los resultados de caracterización y variables de ingreso.
+
 ## Documentos interactivos en R Shiny
 
   - [Documento de docencia universitaria](https://dfranzani.shinyapps.io/Introduccion/?_ga=2.176365349.1813678494.1633837684-1262671339.1627842308): abarca contenido  asociado a cursos intoductorios de estadística.
