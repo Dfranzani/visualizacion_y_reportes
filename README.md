@@ -4,8 +4,7 @@ A continuación se muestran distintos trabajos asociados a paneles de resumen de
 
 ## Paneles en Power BI
 
-  - [Panel de Progresión Académica de Estudiantes](https://app.powerbi.com/view?r=eyJrIjoiNDY5M2ExNTMtOGIwNS00YWU2LTliNDktY2EzOGI3YTBiMDdkIiwidCI6IjVmZjVkOWZhLWY4M2YtNGFjMS1hNGQyLWViNDhlYTBhMDBkMiIsImMiOjR9&pageName=ReportSection825357ed09d818af47a2): panel enfocado en el resumen de calificaciones y tasas de aprobación de estudiantes PACE (*Programa de Acceso a la Educación Superior*) de una universidad estatal de Chile.
-
+  - [Panel de Progresión Académica de Estudiantes](https://app.powerbi.com/view?r=eyJrIjoiNDY5M2ExNTMtOGIwNS00YWU2LTliNDktY2EzOGI3YTBiMDdkIiwidCI6IjVmZjVkOWZhLWY4M2YtNGFjMS1hNGQyLWViNDhlYTBhMDBkMiIsImMiOjR9&pageName=ReportSection825357ed09d818af47a2): panel enfocado en el resumen de calificaciones y tasas de aprobación de estudiantes de educación superior.
 ## Paneles en R Shiny
 
   - [Panel de caracterización y riesgo académico](https://dfranzani.shinyapps.io/EjemploShinyDashboard/?_ga=2.104330562.339049205.1656390344-236089382.1655430873): panel enfocado en dar a conocer resultados de caracterización inicial de estudiates (resultados en pruebas diagnósticas) contrastadas con variables de ingreso (NEM y PTU). Además, se muestra un modelo predictivo de reprobación académica para el primer año, considerando los resultados de caracterización y variables de ingreso.
